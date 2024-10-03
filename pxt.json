@@ -1,0 +1,27 @@
+{
+    "name": "Dino",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "animation": "*",
+        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.4.1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.56",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
